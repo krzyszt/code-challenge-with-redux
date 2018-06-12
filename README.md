@@ -1,7 +1,8 @@
+# code-challenge-with-redux
+Code Challenge with react-redux-rxjs-boilerplate
+
 # react-redux-rxjs-boilerplate
-React and Redux-Observable boilerplate with Neutrino
-
-
+React and Redux-Observable boilerplate with Neutrino.
 A highly opinionated, advanced starter kit for web development using 
 <a href="https://reactjs.org/">React</a>,
 <a href="https://redux.js.org/">Redux</a> and 
